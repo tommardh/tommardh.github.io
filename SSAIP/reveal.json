@@ -1,0 +1,8 @@
+{
+	"controls": false,
+	"progress": true,
+	"parallaxBackgroundImage": "shbg.jpg",
+	"parallaxBackgroundSize": "1400px", 
+	"parallaxBackgroundHorizontal": 0,
+    "parallaxBackgroundVertical": 0
+}
