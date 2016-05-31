@@ -4,15 +4,15 @@
         <meta charset="utf-8">
         <title>RevealGhPages</title>
         <meta name="description" content="Revealing how to unlock the power of gh-pages and reveal.js" />
-        <link rel="icon" type="image/png" href="../SAAIP/images/presentIcon.png">
-        <link rel="stylesheet" href="../SAAIP/css/reveal.css">
-        <link rel="stylesheet" href="../SAAIP/css/theme/solarized.css" id="theme">
+        <link rel="icon" type="image/png" href="images/presentIcon.png">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/solarized.css" id="theme">
         <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="../SAAIP/lib/css/zenburn.css">
+        <link rel="stylesheet" href="lib/css/zenburn.css">
 
         <!-- If the query includes 'print-pdf', use the PDF print sheet -->
         <script>
-          document.write( '<link rel="stylesheet" href="../SAAIP/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+          document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
         </script>
     </head>
     <body>
@@ -29,8 +29,8 @@
             </div>
         </div>
 
-        <script src="../SAAIP/lib/js/head.min.js"></script>
-        <script src="../SAAIP/js/reveal.js"></script>
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
 
         <script>
             function extend() {
@@ -48,12 +48,12 @@
 
             // Optional libraries used to extend on reveal.js
             var deps = [
-              { src: '../SAAIP/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-              { src: '../SAAIP/plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
-              { src: '../SAAIP/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
-              { src: '../SAAIP/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-              { src: '../SAAIP/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-              { src: '../SAAIP/plugin/math/math.js', async: true }
+              { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+              { src: 'plugin/math/math.js', async: true }
             ];
 
             // default options to init reveal.js
