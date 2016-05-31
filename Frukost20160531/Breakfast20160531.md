@@ -17,7 +17,8 @@
 
 ## The Scrum Framework
 
-<img src="http://localhost:1948/scrum.png" style="width: 65%;"/>
+<!-- img src="http://localhost:1948/scrum.png" style="width: 65%;"/ -->
+![](scrum.png)
 
 <!-- vertical -->
 
@@ -59,13 +60,15 @@
 
 ## Cynefin
 
-<img src="http://localhost:1948/cynefin.png" style="width: 80%;"/>
+<!-- img src="http://localhost:1948/cynefin.png" style="width: 80%;"/ -->
+![](cynefin.png)
 
 <!-- vertical -->
 
 ## Process
 
-<img src="http://localhost:1948/process.png" style="width: 100%;"/>
+<!-- img src="http://localhost:1948/process.png" style="width: 100%;"/ -->
+![](process.png)
 
 <!-- slide -->
 
@@ -80,20 +83,22 @@
 
 ## Impact Map Template
 
-<img src="http://localhost:1948/im_template.png" style="width: 75%;"/>
+<!-- img src="http://localhost:1948/im_template.png" style="width: 75%;"/ -->
+![](im_template.png)
 
 <!-- vertical -->
 
 ## Gaming Example
 
-<img src="http://localhost:1948/gaming_example.png" style="width: 75%;"/>
+<!-- img src="http://localhost:1948/gaming_example.png" style="width: 75%;"/ -->
+![](gaming_example.png)
 
 <!-- vertical -->
 
 ## Assumptions
 
-<img src="http://localhost:1948/assumptions.png" style="width: 100%;"/>
-
+<!-- img src="http://localhost:1948/assumptions.png" style="width: 100%;"/ -->
+![](assumptions.png)
 <!-- slide -->
 
 ## Thanks!
