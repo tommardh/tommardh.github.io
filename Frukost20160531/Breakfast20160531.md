@@ -104,4 +104,5 @@ Questions
 
 ## References 
 
-- The New New Prodiuct Development Game
+- [The New New Prodiuct Development Game](https://www.google.se/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0ahUKEwiThtT-m4TNAhWClCwKHZoVCaEQFggbMAA&url=https%3A%2F%2Fhbr.org%2F1986%2F01%2Fthe-new-new-product-development-game&usg=AFQjCNH9G7jBuoi5OpsE02kduZ7VcCE4pg&sig2=dFpWODwXP9n9W3H9lQw0SA&bvm=bv.123325700,d.bGg) 
+- Images Gojko Adzic from [Impact Mappping](https://www.impactmapping.org/) used under [Creative Commons](http://creativecommons.org/licenses/by/4.0/)
