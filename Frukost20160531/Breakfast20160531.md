@@ -1,10 +1,3 @@
----
-title: 2016-05-24 Presentation - Softhouse - Utforskande Agila Processer för Innovation
-notebook: .Softhouse
-tags: 
----
-<!-- slide -->
-
 # Exploration of Agile Processes for Innovation
 
 > Tom Mårdh & Johan Normén <br/>
